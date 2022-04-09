@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @DanilJP
+- 👋 Olá, eu sou @DanielJP
 - 👀 Eu sou interessado em Python, Análise de Dados e Business intelligence
 - 🌱 Estou aprendendo atualmente Python, Django, SQL, ML e AI
 - 💞️ Estou querendo colaborar com códigos em Python e ideias de projetos.
